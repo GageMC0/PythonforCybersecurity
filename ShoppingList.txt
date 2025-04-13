@@ -3,5 +3,3 @@ Break
 Bananas
 Eggs
 
-Ice Cream
-Cake

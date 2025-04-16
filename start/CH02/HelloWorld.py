@@ -13,3 +13,12 @@ print(f"Hello {user_name}")
 print ("Hello " + user_name)
 
 print ("Hello again", user_name)
+
+print (user_name +  " today is going to be a great day!")
+
+age_input = input ("How old are you?")
+
+age = int (age_input)
+age_in_two_years = age + 2
+
+print ("In two years you will be", age_in_two_years)
